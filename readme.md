@@ -1,4 +1,5 @@
 # Binary Translator in Ruby
+The Binary translator translates 8-bit bytes into characters, and strings them together into a message
 
 ## Setup
 
